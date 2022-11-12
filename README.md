@@ -21,9 +21,9 @@ Simple, Poetic, Pithy
 
 # 算法思想
 
+- [贪心算法](https://github.com/stonebirdjx/algo/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
 - 双指针
 - 排序
-- 贪心思想
 - 二分查找
 - 分治
 - 搜索
