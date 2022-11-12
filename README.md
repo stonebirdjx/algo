@@ -22,7 +22,7 @@ Simple, Poetic, Pithy
 # 算法思想
 
 - [贪心算法](https://github.com/stonebirdjx/algo/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95.md)
-- 双指针
+- [双指针](https://github.com/stonebirdjx/algo/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88.md)
 - 排序
 - 二分查找
 - 分治
