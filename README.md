@@ -104,7 +104,8 @@
 
 - :point_right:[二叉树](./二叉树.md)
 - :point_right:[常见排序算法](./常见排序算法.md)
-- 
+- :point_right:[栈 Stack](./栈.md)
+- :point_right:[队列 Queue](./队列.md)
 
 # stonebird算法小抄
 
